@@ -6,7 +6,8 @@ Flappy bird créé avec pygame
 1. Installer Python
 2. git clone https://github.com/adm971/flappy-bird.git
 3. cd flappy-bird
-4. python main.py
+4. pip install -r requirements.txt
+5. python main.py
 
 
 Le jeu se lancera tout seul 
